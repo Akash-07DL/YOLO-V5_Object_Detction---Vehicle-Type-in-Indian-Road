@@ -13,5 +13,7 @@ We can do the data annotation from RoboloFlow as per our Requirement. RoboFlow p
 **Check it - https://roboflow.com/**
 
 
+# Training :
+
 **Here, we will use Google Drive and Google Colab to train the model.**
 
