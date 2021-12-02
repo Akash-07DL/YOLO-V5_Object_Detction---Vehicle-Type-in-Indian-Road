@@ -10,7 +10,7 @@ YOLOv5 🚀 is a family of object detection architectures and models pretrained 
 # Data Annotation :
 We can do the data annotation from RoboloFlow as per our Requirement. RoboFlow provide many things like data annotation, data preparation, data augmentation, file converter etc.
 
-**Check it - https://roboflow.com/ **
+**Check it - https://roboflow.com/**
 
 
 **Here, we will use Google Drive and Google Colab to train the model.**
