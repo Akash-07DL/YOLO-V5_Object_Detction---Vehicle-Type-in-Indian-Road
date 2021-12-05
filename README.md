@@ -32,3 +32,9 @@ We can do the data annotation from RoboloFlow as per our Requirement. RoboFlow p
 
 
 # Training with more :
+
+For detail information go through all the .ipynb files for more training approach.
+
+
+**DLM - this folder has contain weights and result for first .ipynb training.**
+**DLM_01 - this folder has contain weights and result for second .ipynb training.**
